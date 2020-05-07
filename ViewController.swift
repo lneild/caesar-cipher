@@ -70,7 +70,7 @@ class ViewController: UIViewController {
     func numToString(encryptNum: [Int]) -> String {
         //get values from alphebet arr
         //display in the message text box
-        
+	// more comments the better        
         var encryptText: String = ""
         
         for i in 0...(encryptNum.count-1) {
